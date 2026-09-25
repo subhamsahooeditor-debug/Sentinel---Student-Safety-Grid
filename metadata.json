@@ -1,0 +1,11 @@
+{
+  "name": "Sentinel - Student Safety Grid",
+  "description": "Mobile-first emergency response web application for students at Government College of Engineering Kalahandi (GCEK), Bhawanipatna.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
